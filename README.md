@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 ## My Stats
 <p>
 <a href="https://github.com/Jonathan-Oliveira">
-  <img align="left" width="50%"  height="170em" src="https://github-readme-stats.vercel.app/api?username=jonathan-oliveira&show_icons=true&theme=radical" />
+  <img align="left" width="50%"  height="165em" src="https://github-readme-stats.vercel.app/api?username=jonathan-oliveira&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Jonathan-Oliveira">
-  <img align="rigth"  width="50%"  height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathan-oliveira&theme=radical&layout=compact&exclude_lang=java+r"/>
+  <img align="center"  width="50%"  height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathan-oliveira&theme=radical&layout=compact&exclude_lang=java+r"/>
 </a>
 </p>
 
