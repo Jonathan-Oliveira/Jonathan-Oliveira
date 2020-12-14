@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>.
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Jonathan-Oliveira.visito-badge)](https://github.com/Jonathan-Oliveira)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Jonathan-Oliveira.visitor-badge)](https://github.com/Jonathan-Oliveira)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -65,8 +65,10 @@ Here are some ideas to get you started:
 ## My Stats
 <p>
 <a href="https://github.com/Jonathan-Oliveira">
-  <img align="left" width="490"  height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-oliveira&show_icons=true&theme=radical" />
-  <img align="rigth"  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathan-oliveira&theme=radical&layout=compact&exclude_lang=java+r"/>
+  <img align="left" width="50%"  height="170em" src="https://github-readme-stats.vercel.app/api?username=jonathan-oliveira&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Jonathan-Oliveira">
+  <img align="rigth"  width="50%"  height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonathan-oliveira&theme=radical&layout=compact&exclude_lang=java+r"/>
 </a>
 </p>
 
