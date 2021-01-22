@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="http://www.linkedin.com/in/jonathan-jorge-oliveira"><img src="https://img.shields.io/badge/-Jonathan%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jonathan.jb.oliveira.com"><img src="https://img.shields.io/badge/-jonathan.jb.oliveira@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jonathan.jb.oliveira@gmail.com"><img src="https://img.shields.io/badge/-jonathan.jb.oliveira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
