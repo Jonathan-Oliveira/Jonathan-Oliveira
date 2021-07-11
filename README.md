@@ -45,7 +45,9 @@ Here are some ideas to get you started:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![AngularJs](https://img.shields.io/badge/-AngularJs-333333?style=flat&logo=angular)
-   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   
     
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
