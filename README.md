@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm Jonathan.
+## I'm Jonathan Oliveira.
 
 ### 💻 &nbsp;About Me 
 
-- 🌱 &nbsp; I’m currently learning Machine Learning.
+- 🌱 &nbsp; I’m currently learning Machine Learning and Django.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>.
 
@@ -44,19 +44,23 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![AngularJs](https://img.shields.io/badge/-AngularJs-333333?style=flat&logo=angular)
+  ![AngularJs](https://img.shields.io/badge/AngularJS-333333?style=flat&logo=angularjs&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=green)
+  ![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
    
     
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=fireBase)
+  ![MySql](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSql](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 💻  &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
