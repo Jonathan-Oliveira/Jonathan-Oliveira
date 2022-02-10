@@ -40,13 +40,9 @@ Here are some ideas to get you started:
 #### Technologies
 - 🔧 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![AngularJs](https://img.shields.io/badge/AngularJS-333333?style=flat&logo=angularjs&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=green)
   ![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
    
