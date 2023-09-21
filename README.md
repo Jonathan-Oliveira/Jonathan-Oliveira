@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me 
 
-- 🌱 &nbsp; I’m currently learning Machine Learning, Django and Flask.
+- 🌱 &nbsp; I’m currently learning Machine Learning and Data Science.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>.
 
